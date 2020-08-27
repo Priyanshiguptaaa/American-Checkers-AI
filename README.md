@@ -3,4 +3,4 @@ A website to play the American Checkers game with an AI built using the Mini-Max
 
 #### WEB LINK : https://americancheckersai.netlify.app/
 
-##### DISCLAIMER : Compatible with Desktop 
+##### DISCLAIMER : Compatible with Desktop version
