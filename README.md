@@ -6,9 +6,6 @@ A website to play the American Checkers game with an AI built using the Mini-Max
 
 #### DISCLAIMER : Compatible with Desktop version
 
-## Snapshots
-
-
 # Implentation 
 - The game algorithm is implemented using JavaScript.
 - The procedure is as the player completes its turn, a search algorithm is called which is what allows the program to look ahead at the possible future positions before deciding what move it wants to make in that current position.
@@ -22,7 +19,6 @@ Large values would favor white and small values would favor black. For this reas
 - This would result in the player to know that he already has a better option available and that he won’t have to go down the other branch. 
 - These checks are made through alpha-beta parameters. 
 - This observation concludes that we don’t have to waste any computation in evaluating the final position. Hence, we’ve pruned that position from the tree.
-
 
 ![Implementation](implementation.png)
 
