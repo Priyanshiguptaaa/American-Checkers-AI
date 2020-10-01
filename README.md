@@ -6,6 +6,8 @@ A website to play the American Checkers game with an AI built using the Mini-Max
 
 #### DISCLAIMER : Compatible with Desktop version
 
+## Snapshots
+
 
 # Implentation 
 - The game algorithm is implemented using JavaScript.
@@ -31,3 +33,5 @@ Large values would favor white and small values would favor black. For this reas
 # System Environment
 
 ![System](system_enviroment.png)
+
+Gamer can interact with the system by giving input (selecting the pieces and dragging them to the available tile). System gives those input to the script , if any change occurs( if the value is changed), the object send to renders to display the things (a character can change its place).
